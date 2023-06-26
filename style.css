@@ -1,0 +1,23 @@
+/* 
+ * Always set the map height explicitly to define the size of the div element
+ * that contains the map. 
+ */
+
+
+ body{
+
+   width: 100vh;
+   height: 100vh;
+
+ }
+ #map {
+    height: 80%;
+    width: 80%;
+    margin: auto;
+  }
+
+
+  
+  /* 
+   * Optional: Makes the sample page fill the window. 
+   */
